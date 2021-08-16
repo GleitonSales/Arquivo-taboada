@@ -1,0 +1,7 @@
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\bin\Debug\TABOADA.exe.config
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\bin\Debug\TABOADA.exe
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\bin\Debug\TABOADA.pdb
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\obj\Debug\TABOADA.csproj.AssemblyReference.cache
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\obj\Debug\TABOADA.csproj.CoreCompileInputs.cache
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\obj\Debug\TABOADA.exe
+C:\Users\Gleiton Sales\source\repos\TABOADA\TABOADA\obj\Debug\TABOADA.pdb
